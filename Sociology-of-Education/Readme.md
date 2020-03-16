@@ -1,3 +1,4 @@
 # 教育社会学概论
 <font color=#FF000> *Friedrich Foo from CCME* </font>
 ## 目录
+[第一讲 从教育学说起](第一讲 从教育学说起.md)
