@@ -1,6 +1,7 @@
 # 教育社会学概论
  *Friedrich Foo from CCME*
 ## 目录
+---
 - [绪论与答疑](https://github.com/FriedrichFoo/Reading-Notes/blob/master/Sociology-of-Education/绪论与答疑.md)
 - [第一讲：从教育学说起](https://github.com/FriedrichFoo/Reading-Notes/blob/master/Sociology-of-Education/第一讲%20从教育说起.md)
 - [第三章：教育社会学研究方法](https://github.com/FriedrichFoo/Reading-Notes/blob/master/Sociology-of-Education/第三章：教育社会学研究方法.md)
